@@ -1,0 +1,43 @@
+h4 {
+    text-align: left;
+}
+
+table {
+    font-size: large;
+}
+
+td {
+    vertical-align: middle;
+}
+
+p.subheading {
+    font-size: xx-large;
+    text-align: left;
+}
+
+p.text {
+    font-size: large;
+    text-align: left;
+}
+
+p.footnote {
+    font-size: small;
+    text-align: left;
+}
+
+p.comment {
+    font-size: small;
+    text-align: right;
+    color: tomato;
+}
+
+div.list {
+    font-size: large;
+    text-align: left;
+}
+
+div.main {
+    font-size: xx-large;
+    font-weight: bold;
+    vertical-align: middle;
+}
